@@ -6,7 +6,7 @@
 
 ##  Estado del Proyecto
 
- En desarrollo / ejecución
+ En desarrollo
 
  ---
 
@@ -200,11 +200,9 @@ TIFI prioriza:
 
 #  Tecnologías Utilizadas
 
-- React Native
-- Firebase
-- Firestore
-- Authentication
-- Maps API
+- React Native - JavaScript
+- Firebase - Firestore - Authentication
+- Google Maps API
 - Push Notifications
 
 ---
